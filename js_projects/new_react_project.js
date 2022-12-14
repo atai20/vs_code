@@ -9,6 +9,6 @@ class ShoppingList extends React.Component {
             <li>Oculus</li>
           </ul>
         </div>
-      );
+      ); 
     }
   }
